@@ -1,6 +1,5 @@
 ### Hi there, I'm Raquel!
-![conceito-de-home-office-mulher-negra-com-laptop-trabalhando-em-casa-estudante-ou-freelancer_203228-610](https://user-images.githubusercontent.com/102266162/177039107-70bfe2dd-6c67-4e8f-847f-c252b466e25e.jpg)
-
+![perfilgit](https://user-images.githubusercontent.com/102266162/177041735-75be6c8a-3875-4fc2-aff9-b65d75473beb.jpg)
 - Mother of two girls, student, beginner programmer
 - 🌱 I'm attending to System Analysis and Development
 - 🌱 I’m currently learning   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30"/>          
