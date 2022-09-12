@@ -1,5 +1,5 @@
 ### Hi there, I'm Raquel!
-![perfilgit](https://user-images.githubusercontent.com/102266162/177041735-75be6c8a-3875-4fc2-aff9-b65d75473beb.jpg)
+![perfilgit1](https://user-images.githubusercontent.com/102266162/189727842-bcbd51fd-226f-437d-ac4e-6f424a3ad125.jpg)
 - Mother of two girls, student, beginner programmer
 - 🌱 I'm attending to System Analysis and Development
 
